@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/evicenzi357" target="blank"><img src="https://img.shields.io/twitter/follow/evicenzi357?logo=twitter&style=for-the-badge" alt="evicenzi357" /></a> </p>
 
-- 🌱 I’m currently learning **React, ReactNative**
+- 🌱 I’m currently learning **React, Rust**
 
 - 📫 How to reach me **evicenzi357@gmail.com**
 
