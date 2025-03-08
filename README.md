@@ -3,11 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edoardovicenzi&label=Profile%20views&color=0e75b6&style=flat" alt="edoardovicenzi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=edoardovicenzi" alt="edoardovicenzi" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/evicenzi357" target="blank"><img src="https://img.shields.io/twitter/follow/evicenzi357?logo=twitter&style=for-the-badge" alt="evicenzi357" /></a> </p>
 
-- 🌱 I’m currently learning **React, Rust**
+<p align="left"> <a href="https://ko-fi.com/P5P71BO504" target="blank"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi" /></a> </p>
+- 🌱 I’m currently learning **Ract, Rust, Node, Java**
 
 - 📫 How to reach me **evicenzi357@gmail.com**
 
